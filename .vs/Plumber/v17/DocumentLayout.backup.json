@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Togrul\\source\\repos\\Plumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\validators\\createadminuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\validators\\createadminuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\services\\implementation\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\services\\implementation\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\services\\abstraction\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\services\\abstraction\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.data\\plumberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|solutionrelative:plumber.data\\plumberdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.core\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|solutionrelative:plumber.core\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\identity\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\identity\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\profiles\\adminuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\profiles\\adminuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\dtos\\createadminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\dtos\\createadminuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.bl\\dtos\\loginadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{145300F5-3FFD-4A5F-9E84-EA846AF5DF68}|Plumber.Bl\\Plumber.Bl.csproj|solutionrelative:plumber.bl\\dtos\\loginadminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\identity\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\identity\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.core\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|solutionrelative:plumber.core\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.core\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|solutionrelative:plumber.core\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.core\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|solutionrelative:plumber.core\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D4B51F-7A77-4C8E-A234-253364F42EEF}|Plumber.Core\\Plumber.Core.csproj|solutionrelative:plumber.core\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ECCA002-DE27-4A14-8EEB-D992B162C221}|Plumber.Mvc\\Plumber.Mvc.csproj|solutionrelative:plumber.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.data\\migrations\\20250114120659_add-migration changesaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|solutionrelative:plumber.data\\migrations\\20250114120659_add-migration changesaded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.data\\migrations\\20250114110235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|solutionrelative:plumber.data\\migrations\\20250114110235_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|c:\\users\\togrul\\source\\repos\\plumber\\plumber.data\\migrations\\20250114105152_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A2B347-1603-4C9F-852A-E52DFAF09163}|Plumber.Data\\Plumber.Data.csproj|solutionrelative:plumber.data\\migrations\\20250114105152_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Services\\Implementation\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Services\\Implementation\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Services\\Implementation\\IdentityService.cs*",
+              "RelativeToolTip": "Plumber.Bl\\Services\\Implementation\\IdentityService.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:52:17.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Services\\Abstraction\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Services\\Abstraction\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Services\\Abstraction\\IIdentityService.cs",
+              "RelativeToolTip": "Plumber.Bl\\Services\\Abstraction\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T05:49:55.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Profiles\\AdminUserProfile.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Profiles\\AdminUserProfile.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Profiles\\AdminUserProfile.cs",
+              "RelativeToolTip": "Plumber.Bl\\Profiles\\AdminUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:55:37.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAdminUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Validators\\CreateAdminUserValidator.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Validators\\CreateAdminUserValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Validators\\CreateAdminUserValidator.cs*",
+              "RelativeToolTip": "Plumber.Bl\\Validators\\CreateAdminUserValidator.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:25:49.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Register.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Register.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T14:30:04.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginAdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Dtos\\LoginAdminUser.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Dtos\\LoginAdminUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Dtos\\LoginAdminUser.cs",
+              "RelativeToolTip": "Plumber.Bl\\Dtos\\LoginAdminUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:58:11.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Login.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Login.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\Identity\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T13:56:05.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250114120659_add-migration ChangesAded.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114120659_add-migration ChangesAded.cs",
+              "RelativeDocumentMoniker": "Plumber.Data\\Migrations\\20250114120659_add-migration ChangesAded.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114120659_add-migration ChangesAded.cs",
+              "RelativeToolTip": "Plumber.Data\\Migrations\\20250114120659_add-migration ChangesAded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:06:59.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAdminUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Dtos\\CreateAdminUserDto.cs",
+              "RelativeDocumentMoniker": "Plumber.Bl\\Dtos\\CreateAdminUserDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Bl\\Dtos\\CreateAdminUserDto.cs",
+              "RelativeToolTip": "Plumber.Bl\\Dtos\\CreateAdminUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T12:00:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:34:53.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Controllers\\IdentityController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:25:38.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:08:24.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAIBJwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:06:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T11:03:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Plumber.Mvc\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:03:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250114110235_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114110235_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Plumber.Data\\Migrations\\20250114110235_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114110235_InitialCreate.cs",
+              "RelativeToolTip": "Plumber.Data\\Migrations\\20250114110235_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T11:02:35.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\AdminUser.cs",
+              "RelativeDocumentMoniker": "Plumber.Core\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\AdminUser.cs",
+              "RelativeToolTip": "Plumber.Core\\AdminUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:58:28.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250114105152_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114105152_Initial.cs",
+              "RelativeDocumentMoniker": "Plumber.Data\\Migrations\\20250114105152_Initial.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\Migrations\\20250114105152_Initial.cs",
+              "RelativeToolTip": "Plumber.Data\\Migrations\\20250114105152_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:51:52.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\appsettings.json",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\appsettings.json",
+              "RelativeToolTip": "Plumber.Mvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T10:29:59.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "Plumber.Core\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\BaseAuditable.cs",
+              "RelativeToolTip": "Plumber.Core\\BaseAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:36:52.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Plumber.Core\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\BaseEntity.cs",
+              "RelativeToolTip": "Plumber.Core\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:36:17.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\Technician.cs",
+              "RelativeDocumentMoniker": "Plumber.Core\\Technician.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\Technician.cs",
+              "RelativeToolTip": "Plumber.Core\\Technician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:36:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\Service.cs",
+              "RelativeDocumentMoniker": "Plumber.Core\\Service.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Core\\Service.cs",
+              "RelativeToolTip": "Plumber.Core\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:35:53.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Program.cs",
+              "RelativeToolTip": "Plumber.Mvc\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:32:11.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:32:06.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBJwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:28:50.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Plumber.Mvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBJwDoBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T10:27:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Plumber.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Plumber.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:27:31.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlumberDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\PlumberDbContext.cs",
+              "RelativeDocumentMoniker": "Plumber.Data\\PlumberDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\Plumber\\Plumber.Data\\PlumberDbContext.cs",
+              "RelativeToolTip": "Plumber.Data\\PlumberDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:25:46.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

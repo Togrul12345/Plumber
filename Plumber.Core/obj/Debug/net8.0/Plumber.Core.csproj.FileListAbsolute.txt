@@ -1,0 +1,12 @@
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\bin\Debug\net8.0\Plumber.Core.deps.json
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\bin\Debug\net8.0\Plumber.Core.dll
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\bin\Debug\net8.0\Plumber.Core.pdb
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.dll
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\refint\Plumber.Core.dll
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.pdb
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\ref\Plumber.Core.dll
+C:\Users\Togrul\source\repos\Plumber\Plumber.Core\obj\Debug\net8.0\Plumber.Core.csproj.AssemblyReference.cache
