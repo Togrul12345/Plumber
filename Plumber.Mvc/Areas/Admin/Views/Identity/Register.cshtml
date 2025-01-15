@@ -41,7 +41,7 @@
                             <div class="col-12">
                                 <label asp-for="Email" class="form-label">Email <span class="text-danger">*</span></label>
                                 <input type="email" asp-for="Email" class="form-control" name="email" id="email" placeholder="name@example.com" required>
-                                <span asp-validation-for="Email"></span>
+                                @Html.ValidationMessageFor(m=>m.Email)
                             </div>
                             <div class="col-12">
                                 <label asp-for="Password" class="form-label">Password <span class="text-danger">*</span></label>

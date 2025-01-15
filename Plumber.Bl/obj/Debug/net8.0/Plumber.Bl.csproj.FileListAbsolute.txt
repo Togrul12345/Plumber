@@ -15,3 +15,4 @@ C:\Users\Togrul\source\repos\Plumber\Plumber.Bl\obj\Debug\net8.0\Plumber.Bl.dll
 C:\Users\Togrul\source\repos\Plumber\Plumber.Bl\obj\Debug\net8.0\refint\Plumber.Bl.dll
 C:\Users\Togrul\source\repos\Plumber\Plumber.Bl\obj\Debug\net8.0\Plumber.Bl.pdb
 C:\Users\Togrul\source\repos\Plumber\Plumber.Bl\obj\Debug\net8.0\ref\Plumber.Bl.dll
+C:\Users\Togrul\source\repos\Plumber\Plumber.Bl\obj\Debug\net8.0\Plumber.Bl.sourcelink.json

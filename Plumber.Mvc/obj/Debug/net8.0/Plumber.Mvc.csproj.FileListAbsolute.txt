@@ -159,3 +159,4 @@ C:\Users\Togrul\source\repos\Plumber\Plumber.Mvc\bin\Debug\net8.0\FluentValidati
 C:\Users\Togrul\source\repos\Plumber\Plumber.Mvc\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Togrul\source\repos\Plumber\Plumber.Mvc\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Togrul\source\repos\Plumber\Plumber.Mvc\obj\Debug\net8.0\Plumber.Mvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Togrul\source\repos\Plumber\Plumber.Mvc\obj\Debug\net8.0\Plumber.Mvc.sourcelink.json

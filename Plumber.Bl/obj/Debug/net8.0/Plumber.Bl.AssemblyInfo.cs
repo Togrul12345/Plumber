@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plumber.Bl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00fe26922bdf6e07cb2841b8805a8a1a268448b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plumber.Bl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plumber.Bl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

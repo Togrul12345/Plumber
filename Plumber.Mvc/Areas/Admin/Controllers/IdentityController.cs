@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Plumber.Bl.Dtos;
+using Plumber.Bl.Services.Abstraction;
 using Plumber.Core;
 
 namespace Plumber.Mvc.Areas.Admin.Controllers
@@ -13,6 +14,7 @@ namespace Plumber.Mvc.Areas.Admin.Controllers
         private readonly UserManager<AdminUser> _userManager;
         private readonly SignInManager<AdminUser> _signinManager;
         private readonly RoleManager<IdentityRole> _roleManager;
+
         private readonly IMapper _mapper;
 
         public IdentityController(UserManager<AdminUser> userManager, SignInManager<AdminUser> signinManager, RoleManager<IdentityRole> roleManager, IMapper mapper)
@@ -26,7 +28,7 @@ namespace Plumber.Mvc.Areas.Admin.Controllers
 
         public IActionResult Register()
         {
-            
+
             return View();
         }
         [HttpPost]
@@ -35,16 +37,20 @@ namespace Plumber.Mvc.Areas.Admin.Controllers
             if (ModelState.IsValid)
             {
                 AdminUser adminUser = _mapper.Map<AdminUser>(createAdminUserDto);
-
+                if (_userManager.Users.Where(a => a.Email == adminUser.Email) != null)
+                {
+                    ModelState.AddModelError("Email", "this email already taken");
+                    return View(createAdminUserDto);
+                }
                 var result = await _userManager.CreateAsync(adminUser, createAdminUserDto.Password);
                 if (result.Succeeded)
                 {
                     return RedirectToAction(nameof(Register));
                 }
+
+
+
                 
-
-
-                return View();
 
             }
             return View(createAdminUserDto);
@@ -58,23 +64,23 @@ namespace Plumber.Mvc.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(LoginAdminUser loginAdminUser)
         {
-          var user= await _userManager.FindByNameAsync(loginAdminUser.UserName);
-        var result= await _signinManager.CheckPasswordSignInAsync(user, loginAdminUser.Password,false);
+            var user = await _userManager.FindByNameAsync(loginAdminUser.UserName);
+            var result = await _signinManager.CheckPasswordSignInAsync(user, loginAdminUser.Password, false);
             if (result.Succeeded)
             {
-               await _userManager.AddToRoleAsync(user, "Admin");
-                await _signinManager.SignInAsync(user, isPersistent:false);
+                await _userManager.AddToRoleAsync(user, "Admin");
+                await _signinManager.SignInAsync(user, isPersistent: false);
             }
             return View();
         }
-        [Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> AddRole()
         {
             var role = new IdentityRole()
             {
                 Name = "Admin"
             };
-          await  _roleManager.CreateAsync(role);
+            await _roleManager.CreateAsync(role);
             return View();
         }
     }
